@@ -18,5 +18,7 @@ public class CalendarTest extends Hooks {
 
         String selectedDate = calendarPage.getSelectedDate();
         assert selectedDate.equals(dateToSelect) : "Selected date should match the input date";
+
+        
     }
 }
