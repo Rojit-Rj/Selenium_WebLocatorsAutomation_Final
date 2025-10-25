@@ -1,0 +1,24 @@
+# Maven build artifacts
+/target/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IDE settings
+/.idea/
+/*.iml
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports
+/test-output/
+/*.xml
+
+# ExtentReports config (optional)
+extent-config.xml
