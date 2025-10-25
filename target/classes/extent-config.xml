@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <theme>dark</theme>
+  <documentTitle>Web Locators Automation Report</documentTitle>
+  <reportName>Web Locators Test Results</reportName>
+</configuration>
